@@ -1,19 +1,19 @@
 {
 "profiles":[
 {
-"identifier": 1,
+"id": 1,
 "name": "Syed",
 "place": "Hyderabad",
 "job": "Web Developer"
 },
 {
-"identifier": 2,
+"id": 2,
 "name": "Sohail",
 "place": "Mumbai",
 "job": "Data Scientist"
 },
 {
-"identifier": 3,
+"id": 3,
 "name": "Ahmed",
 "place": "Bangalore",
 "job": "Software Developer Engineer"
